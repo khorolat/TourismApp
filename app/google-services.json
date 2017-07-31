@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167596453545",
+    "firebase_url": "https://touristman-fc182.firebaseio.com",
+    "project_id": "touristman-fc182",
+    "storage_bucket": "touristman-fc182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167596453545:android:c87b767be3e48611",
+        "android_client_info": {
+          "package_name": "articlesapp.zack.com.touristman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167596453545-m71em7km4r8l7guvnd43pik0qpfsim4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "articlesapp.zack.com.touristman",
+            "certificate_hash": "cb50cb07b499686fc2930e1a8ef1295e5881c299"
+          }
+        },
+        {
+          "client_id": "167596453545-i2o6j8djhc524i0ohqgbggp9uo3j31fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVak1MfK_IwOelTpOnkuMrTsSor6WaD_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167596453545-i2o6j8djhc524i0ohqgbggp9uo3j31fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
